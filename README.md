@@ -1,6 +1,6 @@
 # p5js
 
-[Hundred dices](https://editor.p5js.org/nicolai.lindholm10/full/ouQUbTKpM) - Hundre tilfeldig terninger
+[Hundred dices](https://editor.p5js.org/nicolai.lindholm10/full/ouQUbTKpM) - Hundre (ti) tilfeldig terninger
 
 [Square clock](https://editor.p5js.org/nicolai.lindholm10/full/NJhzNdvxk) - Hvordan hadde klokka sett ut hvis den var firkantet?
 
