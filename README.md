@@ -1,10 +1,10 @@
-# p5js
+# Grafisk programmering med p5js
 
 ## Matematikkvisualisering
 
 [Hundred dices](https://editor.p5js.org/nicolai.lindholm10/sketches/ouQUbTKpM) - Hundre tilfeldige terninger
 
-[https://editor.p5js.org/nicolai.lindholm10/sketches/Sud-pvfrQ] (https://editor.p5js.org/nicolai.lindholm10/sketches/Sud-pvfrQ) - Tallinje-generator
+[Tallinje](https://editor.p5js.org/nicolai.lindholm10/sketches/Sud-pvfrQ) - Tallinje-generator
 
 [Fractions](https://matematikk17.neocities.org/fractions/index.html) - Brøksirkelmaker
 
